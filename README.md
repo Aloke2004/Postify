@@ -1,0 +1,1 @@
+Postify is a social media app for sharing and discovering captivating moments through photos, focusing on travel and exploration. It enables users to connect, inspire, and showcase their journeys in a vibrant, interactive community.
